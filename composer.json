@@ -1,5 +1,5 @@
 {
-    "name": "facebook/graph-sdk",
+    "name": "admin-webmaster/php-graph-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
@@ -29,11 +29,6 @@
     "autoload-dev": {
         "psr-4": {
             "Facebook\\Tests\\": "tests/"
-        }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "5.x-dev"
         }
     }
 }
